@@ -1,8 +1,14 @@
 from ninja import NinjaAPI
 import json
 from .models import Player
+from .schema import GoalscorersOut
+from typing import List
 
 api = NinjaAPI()
+
+@api.get("/players/goalscorers", response=List[GoalscorersOut])
+def get_player(request):
+  return Player.objects.filter(goals__gt=0).order_by('-goals')
 
 @api.patch("/update-players")
 def store_data(request):
