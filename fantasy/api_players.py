@@ -1,20 +1,35 @@
 from ninja import NinjaAPI
 import json
 from .models import Player
-from .schema import GoalscorersOut
+from .schema import GoalscorersOut, AssistsOut, GoalkeeperSavesOut, TacklesOut, BestPerformerOut
 from typing import List
 
-api = NinjaAPI()
+players_api = NinjaAPI()
 
-@api.get("/players/goalscorers", response=List[GoalscorersOut])
-def get_player(request):
-  return Player.objects.filter(goals__gt=0).order_by('-goals')
+@players_api.get("best-performers", response=List[BestPerformerOut])
+def get_best_performers(request, position):
+  position = position.capitalize()
+  return Player.objects.filter(g_rating__gt=7, g_position=position).order_by('-g_rating')[:10]
 
-@api.patch("/update-players")
+@players_api.get("tackles", response=List[TacklesOut])
+def get_tackles(request):
+  return Player.objects.filter(tackles__gt=0).order_by('-tackles')[:10]
+
+@players_api.get("saves", response=List[GoalkeeperSavesOut])
+def get_saves(request):
+  return Player.objects.filter(savesmade__gt=0).order_by('-savesmade')[:10]
+
+@players_api.get("assists", response=List[AssistsOut])
+def get_assists(request):
+  return Player.objects.filter(assists__gt=0).order_by('-assists')[:10]
+
+@players_api.get("goalscorers", response=List[GoalscorersOut])
+def get_goals(request):
+  return Player.objects.filter(goals__gt=0).order_by('-goals')[:10]
+
+@players_api.patch("update-players")
 def store_data(request):
-
   page = 1
-  
   while page <= 51:
     with open(f"./player-data/page{page}.json", "r") as file:
       data = json.load(file)
