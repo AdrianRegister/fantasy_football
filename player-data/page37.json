@@ -1,0 +1,1916 @@
+{
+  "get": "players",
+  "parameters": {
+    "league": "39",
+    "season": "2023",
+    "page": "37"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 37,
+    "total": 51
+  },
+  "response": [
+    {
+      "player": {
+        "id": 665,
+        "name": "M. Cornet",
+        "firstname": "Gnaly Albert Maxwel",
+        "lastname": "Cornet",
+        "age": 28,
+        "birth": {
+          "date": "1996-09-27",
+          "place": "Bregbo",
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "179 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/665.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 1,
+            "minutes": 108,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.740000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 1,
+            "bench": 27
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 48,
+            "key": 4,
+            "accuracy": 5
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 19,
+            "won": 5
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1243,
+        "name": "T. Sou\u010dek",
+        "firstname": "Tom\u00e1\u0161",
+        "lastname": "Sou\u010dek",
+        "age": 29,
+        "birth": {
+          "date": "1995-02-27",
+          "place": "Havl\u00ed\u010dk\u016fv Brod",
+          "country": "Czechia"
+        },
+        "nationality": "Czechia",
+        "height": "192 cm",
+        "weight": "86 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1243.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 34,
+            "minutes": 2876,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.935135",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 9,
+            "bench": 3
+          },
+          "shots": {
+            "total": 35,
+            "on": 15
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 947,
+            "key": 20,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 53,
+            "blocks": 28,
+            "interceptions": 37
+          },
+          "duels": {
+            "total": 350,
+            "won": 189
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 24,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1590,
+        "name": "Jos\u00e9 S\u00e1",
+        "firstname": "Jos\u00e9 Pedro",
+        "lastname": "Malheiro de S\u00e1",
+        "age": 31,
+        "birth": {
+          "date": "1993-01-17",
+          "place": "Braga",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "192 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1590.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3039,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.125714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 58,
+            "assists": 1,
+            "saves": 134
+          },
+          "passes": {
+            "total": 904,
+            "key": 1,
+            "accuracy": 15
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 24,
+            "won": 22
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1646,
+        "name": "Lucas Paquet\u00e1",
+        "firstname": "Lucas",
+        "lastname": "Tolentino Coelho de Lima",
+        "age": 27,
+        "birth": {
+          "date": "1997-08-27",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1646.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2638,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.190322",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 16,
+            "bench": 0
+          },
+          "shots": {
+            "total": 37,
+            "on": 11
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 1411,
+            "key": 44,
+            "accuracy": 34
+          },
+          "tackles": {
+            "total": 71,
+            "blocks": 1,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 476,
+            "won": 237
+          },
+          "dribbles": {
+            "attempts": 70,
+            "success": 41,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 66,
+            "committed": 47
+          },
+          "cards": {
+            "yellow": 10,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2869,
+        "name": "E. \u00c1lvarez",
+        "firstname": "Edson Omar",
+        "lastname": "\u00c1lvarez Vel\u00e1zquez",
+        "age": 27,
+        "birth": {
+          "date": "1997-10-24",
+          "place": "Tlalnepantla de Baz",
+          "country": "Mexico"
+        },
+        "nationality": "Mexico",
+        "height": "187 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2869.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 28,
+            "minutes": 2384,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.932258",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 10,
+            "bench": 4
+          },
+          "shots": {
+            "total": 9,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1195,
+            "key": 12,
+            "accuracy": 33
+          },
+          "tackles": {
+            "total": 80,
+            "blocks": 20,
+            "interceptions": 42
+          },
+          "duels": {
+            "total": 298,
+            "won": 152
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 33
+          },
+          "cards": {
+            "yellow": 11,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2938,
+        "name": "J. Ward-Prowse",
+        "firstname": "James Michael Edward",
+        "lastname": "Ward-Prowse",
+        "age": 30,
+        "birth": {
+          "date": "1994-11-01",
+          "place": "Portsmouth",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "173 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2938.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 34,
+            "minutes": 3005,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.286486",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 6,
+            "bench": 3
+          },
+          "shots": {
+            "total": 31,
+            "on": 18
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 1472,
+            "key": 64,
+            "accuracy": 36
+          },
+          "tackles": {
+            "total": 45,
+            "blocks": 9,
+            "interceptions": 38
+          },
+          "duels": {
+            "total": 202,
+            "won": 102
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15911,
+        "name": "M. Kudus",
+        "firstname": "Mohammed",
+        "lastname": "Kudus",
+        "age": 24,
+        "birth": {
+          "date": "2000-08-02",
+          "place": "Accra",
+          "country": "Ghana"
+        },
+        "nationality": "Ghana",
+        "height": "177 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15911.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 27,
+            "minutes": 2487,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.046875",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 9,
+            "bench": 6
+          },
+          "shots": {
+            "total": 43,
+            "on": 17
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 773,
+            "key": 28,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 65,
+            "blocks": null,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 531,
+            "won": 279
+          },
+          "dribbles": {
+            "attempts": 201,
+            "success": 124,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 75,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18742,
+        "name": "M. Doherty",
+        "firstname": "Matthew James",
+        "lastname": "Doherty",
+        "age": 32,
+        "birth": {
+          "date": "1992-01-16",
+          "place": "Dublin",
+          "country": "Republic of Ireland"
+        },
+        "nationality": "Republic of Ireland",
+        "height": "185 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18742.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 9,
+            "minutes": 1136,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.740740",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 21,
+            "out": 5,
+            "bench": 29
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 564,
+            "key": 12,
+            "accuracy": 15
+          },
+          "tackles": {
+            "total": 31,
+            "blocks": 5,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 154,
+            "won": 86
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18744,
+        "name": "M. Kilman",
+        "firstname": "Maximilian William",
+        "lastname": "Kilman",
+        "age": 27,
+        "birth": {
+          "date": "1997-05-23",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "194 cm",
+        "weight": "89 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18744.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 38,
+            "minutes": 3420,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.986842",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 12,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 2286,
+            "key": 17,
+            "accuracy": 51
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 37,
+            "interceptions": 39
+          },
+          "duels": {
+            "total": 255,
+            "won": 161
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 38
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18819,
+        "name": "M. Antonio",
+        "firstname": "Michail Gregory",
+        "lastname": "Antonio",
+        "age": 34,
+        "birth": {
+          "date": "1990-03-28",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "Jamaica",
+        "height": "180 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18819.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 21,
+            "minutes": 1708,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.746153",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 19,
+            "bench": 5
+          },
+          "shots": {
+            "total": 24,
+            "on": 14
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 268,
+            "key": 8,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 3,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 252,
+            "won": 105
+          },
+          "dribbles": {
+            "attempts": 55,
+            "success": 29,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18955,
+        "name": "D. Ings",
+        "firstname": "Daniel William John",
+        "lastname": "Ings",
+        "age": 32,
+        "birth": {
+          "date": "1992-07-23",
+          "place": "Winchester",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18955.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 3,
+            "minutes": 389,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.568421",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 17,
+            "out": 2,
+            "bench": 35
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 105,
+            "key": 5,
+            "accuracy": 4
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 1,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 53,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 4
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19147,
+        "name": "C. Dawson",
+        "firstname": "Craig",
+        "lastname": "Dawson",
+        "age": 34,
+        "birth": {
+          "date": "1990-05-06",
+          "place": "Rochdale",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "188 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19147.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 25,
+            "minutes": 2211,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.144000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 13,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1272,
+            "key": 9,
+            "accuracy": 44
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": 39,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 177,
+            "won": 111
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19341,
+        "name": "D. Bentley",
+        "firstname": "Daniel Ian",
+        "lastname": "Bentley",
+        "age": 31,
+        "birth": {
+          "date": "1993-07-13",
+          "place": "Basildon",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "188 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19341.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 5,
+            "lineups": 3,
+            "minutes": 381,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.560000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 35
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 7,
+            "assists": null,
+            "saves": 8
+          },
+          "passes": {
+            "total": 135,
+            "key": null,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 3,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19428,
+        "name": "J. Bowen",
+        "firstname": "Jarrod",
+        "lastname": "Bowen",
+        "age": 28,
+        "birth": {
+          "date": "1996-12-20",
+          "place": "Leominster",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19428.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 34,
+            "minutes": 3021,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.114705",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 64,
+            "on": 37
+          },
+          "goals": {
+            "total": 16,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 622,
+            "key": 32,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 42,
+            "blocks": 5,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 382,
+            "won": 151
+          },
+          "dribbles": {
+            "attempts": 89,
+            "success": 34,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 42,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21138,
+        "name": "R. A\u00eft-Nouri",
+        "firstname": "Rayan",
+        "lastname": "A\u00eft-Nouri",
+        "age": 23,
+        "birth": {
+          "date": "2001-06-06",
+          "place": "Montreuil",
+          "country": "France"
+        },
+        "nationality": "Algeria",
+        "height": "180 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21138.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 29,
+            "minutes": 2345,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.893939",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 19,
+            "bench": 4
+          },
+          "shots": {
+            "total": 19,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1038,
+            "key": 25,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 71,
+            "blocks": 6,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 373,
+            "won": 207
+          },
+          "dribbles": {
+            "attempts": 101,
+            "success": 62,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 53,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 82855,
+        "name": "T. King",
+        "firstname": "Thomas Lloyd",
+        "lastname": "King",
+        "age": 29,
+        "birth": {
+          "date": "1995-03-09",
+          "place": "Plymouth",
+          "country": "England"
+        },
+        "nationality": "Wales",
+        "height": "194 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/82855.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 135334,
+        "name": "S. Bueno",
+        "firstname": "Santiago Ignacio",
+        "lastname": "Bueno Sciutto",
+        "age": 26,
+        "birth": {
+          "date": "1998-11-09",
+          "place": "Montevideo",
+          "country": "Uruguay"
+        },
+        "nationality": "Uruguay",
+        "height": "190 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/135334.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 9,
+            "minutes": 821,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.625000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 2,
+            "bench": 21
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 476,
+            "key": 2,
+            "accuracy": 38
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 12,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 78,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 280687,
+        "name": "Hugo Bueno",
+        "firstname": "Hugo",
+        "lastname": "Bueno L\u00f3pez",
+        "age": 22,
+        "birth": {
+          "date": "2002-09-18",
+          "place": "Vigo",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/280687.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 7,
+            "minutes": 730,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.595454",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 6,
+            "bench": 26
+          },
+          "shots": {
+            "total": 1,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 330,
+            "key": 6,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 4,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 94,
+            "won": 44
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288118,
+        "name": "L. Orford",
+        "firstname": "Lewis",
+        "lastname": "Orford",
+        "age": 18,
+        "birth": {
+          "date": "2006-02-18",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288118.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 291363,
+        "name": "G. Earthy",
+        "firstname": "George",
+        "lastname": "Earthy",
+        "age": 20,
+        "birth": {
+          "date": "2004-09-05",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/291363.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 48,
+            "name": "West Ham",
+            "logo": "https://media.api-sports.io/football/teams/48.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 32,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 9
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 17,
+            "key": null,
+            "accuracy": 5
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 2,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

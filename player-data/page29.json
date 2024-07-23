@@ -1,0 +1,1990 @@
+{
+  "get": "players",
+  "parameters": {
+    "league": "39",
+    "season": "2023",
+    "page": "29"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 29,
+    "total": 51
+  },
+  "response": [
+    {
+      "player": {
+        "id": 14,
+        "name": "Mahmoud Dahoud",
+        "firstname": "Mahmoud",
+        "lastname": "Dahoud",
+        "age": 28,
+        "birth": {
+          "date": "1996-01-01",
+          "place": "Amouda",
+          "country": "Syria"
+        },
+        "nationality": "Syria",
+        "height": "178 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/14.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 6,
+            "minutes": 454,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.666666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 5,
+            "bench": 11
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 325,
+            "key": 10,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 38,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 296,
+        "name": "J. Milner",
+        "firstname": "James Philip",
+        "lastname": "Milner",
+        "age": 38,
+        "birth": {
+          "date": "1986-01-04",
+          "place": "Leeds",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "175 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/296.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 11,
+            "minutes": 779,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.873333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 10,
+            "bench": 6
+          },
+          "shots": {
+            "total": 3,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 500,
+            "key": 16,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": null,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 71,
+            "won": 33
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 537,
+        "name": "J. Veltman",
+        "firstname": "Jo\u00ebl Ivo",
+        "lastname": "Veltman",
+        "age": 32,
+        "birth": {
+          "date": "1992-01-15",
+          "place": "Velsen",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "184 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/537.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 17,
+            "minutes": 1582,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.800000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 4,
+            "bench": 12
+          },
+          "shots": {
+            "total": 5,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 810,
+            "key": 4,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 54,
+            "blocks": 7,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 194,
+            "won": 126
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 42,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 7600,
+        "name": "Igor Julio",
+        "firstname": "Igor Julio",
+        "lastname": "dos Santos de Paulo",
+        "age": 26,
+        "birth": {
+          "date": "1998-02-07",
+          "place": "Bom Sucesso",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "185 cm",
+        "weight": "85 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/7600.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 24,
+            "lineups": 17,
+            "minutes": 1635,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.921739",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 6,
+            "bench": 17
+          },
+          "shots": {
+            "total": 3,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1417,
+            "key": 7,
+            "accuracy": 55
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": 9,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 127,
+            "won": 71
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18960,
+        "name": "J. Steele",
+        "firstname": "Jason Sean",
+        "lastname": "Steele",
+        "age": 34,
+        "birth": {
+          "date": "1990-08-18",
+          "place": "Newton Aycliffe",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "188 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18960.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 17,
+            "minutes": 1530,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.658823",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 21
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 34,
+            "assists": 0,
+            "saves": 43
+          },
+          "passes": {
+            "total": 602,
+            "key": null,
+            "accuracy": 29
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 5,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18963,
+        "name": "L. Dunk",
+        "firstname": "Lewis Carl",
+        "lastname": "Dunk",
+        "age": 33,
+        "birth": {
+          "date": "1991-11-21",
+          "place": "Brighton",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "192 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18963.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 33,
+            "minutes": 2873,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.136363",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 0
+          },
+          "shots": {
+            "total": 23,
+            "on": 12
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 3213,
+            "key": 13,
+            "accuracy": 90
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 37,
+            "interceptions": 31
+          },
+          "duels": {
+            "total": 182,
+            "won": 101
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18970,
+        "name": "P. Gro\u00df",
+        "firstname": "Pascal",
+        "lastname": "Gro\u00df",
+        "age": 33,
+        "birth": {
+          "date": "1991-06-15",
+          "place": "Mannheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "181 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18970.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 34,
+            "minutes": 3114,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.577777",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 2
+          },
+          "shots": {
+            "total": 35,
+            "on": 20
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 2927,
+            "key": 105,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 70,
+            "blocks": 8,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 248,
+            "won": 127
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18973,
+        "name": "S. March",
+        "firstname": "Solomon Benjamin",
+        "lastname": "March",
+        "age": 30,
+        "birth": {
+          "date": "1994-07-20",
+          "place": "Eastbourne",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "180 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18973.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 7,
+            "minutes": 559,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.385714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 1
+          },
+          "shots": {
+            "total": 8,
+            "on": 6
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 221,
+            "key": 7,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": null,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 81,
+            "won": 41
+          },
+          "dribbles": {
+            "attempts": 16,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19265,
+        "name": "A. Webster",
+        "firstname": "Adam Harry",
+        "lastname": "Webster",
+        "age": 29,
+        "birth": {
+          "date": "1995-01-04",
+          "place": "West Wittering",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "191 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19265.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 13,
+            "minutes": 1144,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.960000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 14
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1086,
+            "key": 5,
+            "accuracy": 66
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": 12,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 88,
+            "won": 50
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19974,
+        "name": "I. Toney",
+        "firstname": "Ivan Benjamin Elijah",
+        "lastname": "Toney",
+        "age": 28,
+        "birth": {
+          "date": "1996-03-16",
+          "place": "Northampton",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "185 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19974.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 16,
+            "minutes": 1449,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.952941",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": 40,
+            "on": 22
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 388,
+            "key": 12,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 1,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 227,
+            "won": 108
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 38695,
+        "name": "J. van Hecke",
+        "firstname": "Jan Paul",
+        "lastname": "van Hecke",
+        "age": 24,
+        "birth": {
+          "date": "2000-06-08",
+          "place": "Arnemuiden",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "189 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/38695.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 26,
+            "minutes": 2367,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.155555",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 0,
+            "bench": 6
+          },
+          "shots": {
+            "total": 11,
+            "on": 6
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 2399,
+            "key": 10,
+            "accuracy": 82
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 27,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 206,
+            "won": 135
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46731,
+        "name": "P. Estupi\u00f1\u00e1n",
+        "firstname": "Pervis Josu\u00e9",
+        "lastname": "Estupi\u00f1\u00e1n Tenorio",
+        "age": 26,
+        "birth": {
+          "date": "1998-01-21",
+          "place": "Esmeraldas",
+          "country": "Ecuador"
+        },
+        "nationality": "Ecuador",
+        "height": "175 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46731.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 15,
+            "minutes": 1246,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.068421",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 6,
+            "bench": 5
+          },
+          "shots": {
+            "total": 9,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 820,
+            "key": 26,
+            "accuracy": 38
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 4,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 131,
+            "won": 64
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 70747,
+        "name": "J. Enciso",
+        "firstname": "Julio C\u00e9sar",
+        "lastname": "Enciso Esp\u00ednola",
+        "age": 20,
+        "birth": {
+          "date": "2004-01-23",
+          "place": "Caaguaz\u00fa",
+          "country": "Paraguay"
+        },
+        "nationality": "Paraguay",
+        "height": "173 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/70747.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 5,
+            "minutes": 475,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.041666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 5,
+            "bench": 8
+          },
+          "shots": {
+            "total": 22,
+            "on": 8
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 167,
+            "key": 9,
+            "accuracy": 11
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 61,
+            "won": 34
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 129058,
+        "name": "B. Verbruggen",
+        "firstname": "Bart",
+        "lastname": "Verbruggen",
+        "age": 22,
+        "birth": {
+          "date": "2002-08-18",
+          "place": "Zwolle",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "193 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/129058.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 21,
+            "minutes": 1890,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.128571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 17
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 28,
+            "assists": null,
+            "saves": 65
+          },
+          "passes": {
+            "total": 743,
+            "key": null,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 9
+          },
+          "dribbles": {
+            "attempts": 1,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 130423,
+        "name": "B. Gilmour",
+        "firstname": "Billy Clifford",
+        "lastname": "Gilmour",
+        "age": 23,
+        "birth": {
+          "date": "2001-06-11",
+          "place": "Irvine",
+          "country": "Scotland"
+        },
+        "nationality": "Scotland",
+        "height": "170 cm",
+        "weight": "60 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/130423.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 24,
+            "minutes": 2125,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.946666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 10,
+            "bench": 7
+          },
+          "shots": {
+            "total": 14,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 2064,
+            "key": 22,
+            "accuracy": 63
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 9,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 163,
+            "won": 75
+          },
+          "dribbles": {
+            "attempts": 21,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 138815,
+        "name": "T. Lamptey",
+        "firstname": "Tariq Kwame",
+        "lastname": "Nii-Lante Lamptey",
+        "age": 24,
+        "birth": {
+          "date": "2000-09-30",
+          "place": "Hillingdon",
+          "country": "England"
+        },
+        "nationality": "Ghana",
+        "height": "163 cm",
+        "weight": "55 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/138815.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 19,
+            "lineups": 10,
+            "minutes": 913,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.636842",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 9,
+            "bench": 9
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 371,
+            "key": 10,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 3,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 87,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 167663,
+        "name": "T. McGill",
+        "firstname": "Thomas Peter Wayne",
+        "lastname": "McGill",
+        "age": 24,
+        "birth": {
+          "date": "2000-03-25",
+          "place": "Belleville",
+          "country": "Canada"
+        },
+        "nationality": "Canada",
+        "height": "185 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/167663.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 280672,
+        "name": "E. Turns",
+        "firstname": "Edward James",
+        "lastname": "Turns",
+        "age": 22,
+        "birth": {
+          "date": "2002-10-18",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "Wales",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/280672.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 282254,
+        "name": "O. Offiah",
+        "firstname": "Odeluga Joshua",
+        "lastname": "Offiah",
+        "age": 22,
+        "birth": {
+          "date": "2002-10-26",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "181 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/282254.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 4,
+            "lineups": 1,
+            "minutes": 126,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 7
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 67,
+            "key": null,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 67,
+            "key": null,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 1,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 12,
+            "won": 8
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 319572,
+        "name": "V. Barco",
+        "firstname": "Valent\u00edn",
+        "lastname": "Barco",
+        "age": 20,
+        "birth": {
+          "date": "2004-07-23",
+          "place": "25 de Mayo",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "170 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/319572.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 6,
+            "lineups": 3,
+            "minutes": 305,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.600000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 7
+          },
+          "shots": {
+            "total": 2,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 187,
+            "key": 4,
+            "accuracy": 26
+          },
+          "tackles": {
+            "total": 11,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 47,
+            "won": 24
+          },
+          "dribbles": {
+            "attempts": 9,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1990 @@
+{
+  "get": "players",
+  "parameters": {
+    "league": "39",
+    "season": "2023",
+    "page": "23"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 23,
+    "total": 51
+  },
+  "response": [
+    {
+      "player": {
+        "id": 657,
+        "name": "K. Tete",
+        "firstname": "Kenny Joelle",
+        "lastname": "Tete",
+        "age": 29,
+        "birth": {
+          "date": "1995-10-09",
+          "place": "Amsterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "180 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/657.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 36,
+            "name": "Fulham",
+            "logo": "https://media.api-sports.io/football/teams/36.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 10,
+            "minutes": 868,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.807142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 5,
+            "bench": 18
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 422,
+            "key": 3,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 3,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 93,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 16
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 895,
+        "name": "J. Garner",
+        "firstname": "James David",
+        "lastname": "Garner",
+        "age": 23,
+        "birth": {
+          "date": "2001-03-13",
+          "place": "Birkenhead",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "186 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/895.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 34,
+            "minutes": 3006,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.081081",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 5,
+            "bench": 3
+          },
+          "shots": {
+            "total": 31,
+            "on": 11
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1113,
+            "key": 44,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 83,
+            "blocks": 14,
+            "interceptions": 45
+          },
+          "duels": {
+            "total": 303,
+            "won": 169
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 44,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1438,
+        "name": "B. Leno",
+        "firstname": "Bernd",
+        "lastname": "Leno",
+        "age": 32,
+        "birth": {
+          "date": "1992-03-04",
+          "place": "Bietigheim-Bissingen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "189 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1438.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 36,
+            "name": "Fulham",
+            "logo": "https://media.api-sports.io/football/teams/36.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 38,
+            "minutes": 3420,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "7.073684",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 61,
+            "assists": 0,
+            "saves": 134
+          },
+          "passes": {
+            "total": 1407,
+            "key": null,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 14,
+            "won": 13
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2165,
+        "name": "V. Mykolenko",
+        "firstname": "Vitalii",
+        "lastname": "Mykolenko",
+        "age": 25,
+        "birth": {
+          "date": "1999-05-29",
+          "place": "Cherkasy",
+          "country": "Ukraine"
+        },
+        "nationality": "Ukraine",
+        "height": "180 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2165.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 28,
+            "minutes": 2472,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.957142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 3,
+            "bench": 4
+          },
+          "shots": {
+            "total": 15,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 881,
+            "key": 13,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": 69,
+            "blocks": 11,
+            "interceptions": 36
+          },
+          "duels": {
+            "total": 223,
+            "won": 126
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2990,
+        "name": "I. Gueye",
+        "firstname": "Idrissa Gana",
+        "lastname": "Gueye",
+        "age": 35,
+        "birth": {
+          "date": "1989-09-26",
+          "place": "Dakar",
+          "country": "Senegal"
+        },
+        "nationality": "Senegal",
+        "height": "174 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2990.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 24,
+            "minutes": 1895,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.040000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 12,
+            "bench": 4
+          },
+          "shots": {
+            "total": 15,
+            "on": 7
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 880,
+            "key": 15,
+            "accuracy": 30
+          },
+          "tackles": {
+            "total": 73,
+            "blocks": 7,
+            "interceptions": 28
+          },
+          "duels": {
+            "total": 220,
+            "won": 128
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 35
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17661,
+        "name": "J. Branthwaite",
+        "firstname": "Jarrad Paul",
+        "lastname": "Branthwaite",
+        "age": 22,
+        "birth": {
+          "date": "2002-06-27",
+          "place": "Carlisle",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "195 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17661.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3117,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.060000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 11,
+            "on": 4
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1370,
+            "key": 4,
+            "accuracy": 31
+          },
+          "tackles": {
+            "total": 66,
+            "blocks": 36,
+            "interceptions": 50
+          },
+          "duels": {
+            "total": 272,
+            "won": 184
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18592,
+        "name": "I. Ndiaye",
+        "firstname": "Iliman Cheikh",
+        "lastname": "Baroy Ndiaye",
+        "age": 24,
+        "birth": {
+          "date": "2000-03-06",
+          "place": "Rouen",
+          "country": "France"
+        },
+        "nationality": "Senegal",
+        "height": "180 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18592.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 62,
+            "name": "Sheffield Utd",
+            "logo": "https://media.api-sports.io/football/teams/62.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18758,
+        "name": "S. Coleman",
+        "firstname": "S\u00e9amus",
+        "lastname": "Coleman",
+        "age": 36,
+        "birth": {
+          "date": "1988-10-11",
+          "place": "Donegal",
+          "country": "Republic of Ireland"
+        },
+        "nationality": "Republic of Ireland",
+        "height": "177 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18758.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 7,
+            "minutes": 662,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.675000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 2,
+            "bench": 11
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 220,
+            "key": 3,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 4,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 54,
+            "won": 29
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18766,
+        "name": "D. Calvert-Lewin",
+        "firstname": "Dominic Nathaniel",
+        "lastname": "Calvert-Lewin",
+        "age": 27,
+        "birth": {
+          "date": "1997-03-16",
+          "place": "Sheffield",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "187 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18766.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 26,
+            "minutes": 2189,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.893750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 22,
+            "bench": 6
+          },
+          "shots": {
+            "total": 65,
+            "on": 31
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 433,
+            "key": 19,
+            "accuracy": 7
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 4,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 431,
+            "won": 196
+          },
+          "dribbles": {
+            "attempts": 40,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 31
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18805,
+        "name": "A. Doucour\u00e9",
+        "firstname": "Abdoulaye",
+        "lastname": "Doucour\u00e9",
+        "age": 31,
+        "birth": {
+          "date": "1993-01-01",
+          "place": "Meulan-en-Yvelines",
+          "country": "France"
+        },
+        "nationality": "Mali",
+        "height": "184 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18805.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2643,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.906250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 15,
+            "bench": 0
+          },
+          "shots": {
+            "total": 38,
+            "on": 23
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 865,
+            "key": 33,
+            "accuracy": 21
+          },
+          "tackles": {
+            "total": 43,
+            "blocks": 3,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 283,
+            "won": 100
+          },
+          "dribbles": {
+            "attempts": 46,
+            "success": 25,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 53
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18929,
+        "name": "D. McNeil",
+        "firstname": "Dwight James Matthew",
+        "lastname": "McNeil",
+        "age": 25,
+        "birth": {
+          "date": "1999-11-22",
+          "place": "Rochdale",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18929.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 33,
+            "minutes": 2899,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.280000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 9,
+            "bench": 2
+          },
+          "shots": {
+            "total": 37,
+            "on": 15
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 1000,
+            "key": 70,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 44,
+            "blocks": 7,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 283,
+            "won": 123
+          },
+          "dribbles": {
+            "attempts": 61,
+            "success": 30,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 33,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19312,
+        "name": "S. Benda",
+        "firstname": "Steven-Andreas",
+        "lastname": "Benda",
+        "age": 26,
+        "birth": {
+          "date": "1998-10-01",
+          "place": "Stuttgart",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "192 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19312.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 36,
+            "name": "Fulham",
+            "logo": "https://media.api-sports.io/football/teams/36.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19364,
+        "name": "N. Maupay",
+        "firstname": "Neal",
+        "lastname": "Maupay",
+        "age": 28,
+        "birth": {
+          "date": "1996-08-14",
+          "place": "Versailles",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "173 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19364.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 13,
+            "minutes": 1315,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.779310",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 8,
+            "bench": 18
+          },
+          "shots": {
+            "total": 25,
+            "on": 16
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 372,
+            "key": 16,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 172,
+            "won": 59
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 2,
+            "lineups": 1,
+            "minutes": 112,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.779310",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 25,
+            "on": 16
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 372,
+            "key": 16,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 172,
+            "won": 59
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 125743,
+        "name": "Beto",
+        "firstname": "Norberto Bercique",
+        "lastname": "Gomes Betuncal",
+        "age": 26,
+        "birth": {
+          "date": "1998-01-31",
+          "place": "Lisboa",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "194 cm",
+        "weight": "88 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/125743.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 9,
+            "minutes": 936,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.714285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 21,
+            "out": 8,
+            "bench": 23
+          },
+          "shots": {
+            "total": 39,
+            "on": 13
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 174,
+            "key": 11,
+            "accuracy": 4
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 218,
+            "won": 95
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162714,
+        "name": "A. Onana",
+        "firstname": "Amadou Ba Zeund Georges",
+        "lastname": "Mvom Onana",
+        "age": 23,
+        "birth": {
+          "date": "2001-08-16",
+          "place": "Dakar",
+          "country": "Senegal"
+        },
+        "nationality": "Belgium",
+        "height": "195 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162714.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 23,
+            "minutes": 2091,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.030000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 7,
+            "bench": 8
+          },
+          "shots": {
+            "total": 21,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1023,
+            "key": 17,
+            "accuracy": 28
+          },
+          "tackles": {
+            "total": 71,
+            "blocks": 6,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 273,
+            "won": 180
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 45,
+            "committed": 37
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 167657,
+        "name": "T. Onyango",
+        "firstname": "Tyler Jaden",
+        "lastname": "Napier Edward Onyango",
+        "age": 21,
+        "birth": {
+          "date": "2003-03-04",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "190 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/167657.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 5
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 284385,
+        "name": "E. Campbell",
+        "firstname": "Elijah",
+        "lastname": "Xavier Campbell",
+        "age": 20,
+        "birth": {
+          "date": "2004-08-02",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "182 cm",
+        "weight": "63 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/284385.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 284500,
+        "name": "T. Iroegbunam",
+        "firstname": "Timothy Emeka",
+        "lastname": "Iroegbunam",
+        "age": 21,
+        "birth": {
+          "date": "2003-06-30",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/284500.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 9,
+            "lineups": 1,
+            "minutes": 157,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.412500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 1,
+            "bench": 24
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 55,
+            "key": null,
+            "accuracy": 5
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": null,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 33,
+            "won": 14
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 297641,
+        "name": "J. Metcalfe",
+        "firstname": "Jenson",
+        "lastname": "Metcalfe",
+        "age": 20,
+        "birth": {
+          "date": "2004-09-06",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/297641.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 330412,
+        "name": "Youssef Chermiti",
+        "firstname": "Youssef",
+        "lastname": "Ramalho Chermiti",
+        "age": 20,
+        "birth": {
+          "date": "2004-05-24",
+          "place": "Santa Maria, A\u00e7ores",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "192 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/330412.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 45,
+            "name": "Everton",
+            "logo": "https://media.api-sports.io/football/teams/45.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 1,
+            "minutes": 192,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.607692",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 17,
+            "out": 1,
+            "bench": 35
+          },
+          "shots": {
+            "total": 5,
+            "on": 2
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 58,
+            "key": 4,
+            "accuracy": 2
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": 1,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 72,
+            "won": 25
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1916 @@
+{
+  "get": "players",
+  "parameters": {
+    "league": "39",
+    "season": "2023",
+    "page": "33"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 33,
+    "total": 51
+  },
+  "response": [
+    {
+      "player": {
+        "id": 983,
+        "name": "L. Bailey",
+        "firstname": "Leon Patrick",
+        "lastname": "Bailey Butler",
+        "age": 27,
+        "birth": {
+          "date": "1997-08-09",
+          "place": "Kingston",
+          "country": "Jamaica"
+        },
+        "nationality": "Jamaica",
+        "height": "178 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/983.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 22,
+            "minutes": 2076,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.131428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 13,
+            "out": 20,
+            "bench": 14
+          },
+          "shots": {
+            "total": 37,
+            "on": 18
+          },
+          "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 701,
+            "key": 52,
+            "accuracy": 15
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 1,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 266,
+            "won": 110
+          },
+          "dribbles": {
+            "attempts": 107,
+            "success": 57,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1904,
+        "name": "B. Kamara",
+        "firstname": "Boubacar Bernard",
+        "lastname": "Kamara",
+        "age": 25,
+        "birth": {
+          "date": "1999-11-23",
+          "place": "Marseille",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "184 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1904.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 20,
+            "minutes": 1662,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.955000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 9,
+            "bench": 0
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1024,
+            "key": 20,
+            "accuracy": 45
+          },
+          "tackles": {
+            "total": 43,
+            "blocks": 7,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 213,
+            "won": 105
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 14,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 35
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2287,
+        "name": "R. Barkley",
+        "firstname": "Ross",
+        "lastname": "Barkley",
+        "age": 31,
+        "birth": {
+          "date": "1993-12-05",
+          "place": "Liverpool",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "189 cm",
+        "weight": "76 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2287.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 1359,
+            "name": "Luton",
+            "logo": "https://media.api-sports.io/football/teams/1359.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 30,
+            "minutes": 2622,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.156250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 6,
+            "bench": 2
+          },
+          "shots": {
+            "total": 47,
+            "on": 19
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 1409,
+            "key": 46,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": 46,
+            "blocks": 9,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 380,
+            "won": 194
+          },
+          "dribbles": {
+            "attempts": 100,
+            "success": 66,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 40,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2724,
+        "name": "L. Digne",
+        "firstname": "Lucas",
+        "lastname": "Digne",
+        "age": 31,
+        "birth": {
+          "date": "1993-07-20",
+          "place": "Meaux",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "178 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2724.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 27,
+            "minutes": 2413,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.848484",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 9,
+            "bench": 6
+          },
+          "shots": {
+            "total": 13,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1014,
+            "key": 38,
+            "accuracy": 25
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 2,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 230,
+            "won": 129
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2922,
+        "name": "L. Dendoncker",
+        "firstname": "Leander",
+        "lastname": "Dendoncker",
+        "age": 29,
+        "birth": {
+          "date": "1995-04-15",
+          "place": "Passendale",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "188 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2922.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 8,
+            "lineups": 1,
+            "minutes": 113,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.550000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 1,
+            "bench": 17
+          },
+          "shots": {
+            "total": 1,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 56,
+            "key": null,
+            "accuracy": 5
+          },
+          "tackles": {
+            "total": 6,
+            "blocks": 2,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 19,
+            "won": 11
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 1,
+            "committed": 1
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2926,
+        "name": "Y. Tielemans",
+        "firstname": "Youri Marion A.",
+        "lastname": "Tielemans",
+        "age": 27,
+        "birth": {
+          "date": "1997-05-07",
+          "place": "Sint-Pieters-Leeuw",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "176 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2926.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 17,
+            "minutes": 1619,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.950000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 11,
+            "bench": 15
+          },
+          "shots": {
+            "total": 9,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 907,
+            "key": 18,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 41,
+            "blocks": 3,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 184,
+            "won": 98
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 29,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19071,
+        "name": "E. Buend\u00eda",
+        "firstname": "Emiliano",
+        "lastname": "Buend\u00eda Stati",
+        "age": 28,
+        "birth": {
+          "date": "1996-12-25",
+          "place": "Mar del Plata",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "172 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19071.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19177,
+        "name": "K. Hause",
+        "firstname": "Kortney Paul Duncan",
+        "lastname": "Hause",
+        "age": 29,
+        "birth": {
+          "date": "1995-07-16",
+          "place": "Redbridge",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "191 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19177.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19179,
+        "name": "T. Mings",
+        "firstname": "Tyrone Deon",
+        "lastname": "Mings",
+        "age": 31,
+        "birth": {
+          "date": "1993-03-13",
+          "place": "Bath",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "196 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19179.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 1,
+            "minutes": 31,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.700000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 5,
+            "key": 1,
+            "accuracy": 5
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 1,
+            "won": 1
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19191,
+        "name": "J. McGinn",
+        "firstname": "John",
+        "lastname": "McGinn",
+        "age": 30,
+        "birth": {
+          "date": "1994-10-18",
+          "place": "Glasgow",
+          "country": "Scotland"
+        },
+        "nationality": "Scotland",
+        "height": "178 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19191.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3010,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.051428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 10,
+            "bench": 0
+          },
+          "shots": {
+            "total": 29,
+            "on": 16
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 4,
+            "saves": null
+          },
+          "passes": {
+            "total": 1142,
+            "key": 45,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 59,
+            "blocks": 4,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 383,
+            "won": 192
+          },
+          "dribbles": {
+            "attempts": 82,
+            "success": 55,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 69,
+            "committed": 39
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19192,
+        "name": "J. Ramsey",
+        "firstname": "Jacob Matthew",
+        "lastname": "Ramsey",
+        "age": 23,
+        "birth": {
+          "date": "2001-05-28",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "180 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19192.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 8,
+            "minutes": 848,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.826666",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 3,
+            "bench": 8
+          },
+          "shots": {
+            "total": 15,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 310,
+            "key": 11,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 2,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 93,
+            "won": 41
+          },
+          "dribbles": {
+            "attempts": 19,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 7
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19298,
+        "name": "M. Cash",
+        "firstname": "Matthew Stuart",
+        "lastname": "Cash",
+        "age": 27,
+        "birth": {
+          "date": "1997-08-07",
+          "place": "Slough",
+          "country": "England"
+        },
+        "nationality": "Poland",
+        "height": "185 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19298.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 23,
+            "minutes": 2143,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.900000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 6,
+            "out": 7,
+            "bench": 8
+          },
+          "shots": {
+            "total": 23,
+            "on": 13
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1028,
+            "key": 13,
+            "accuracy": 29
+          },
+          "tackles": {
+            "total": 54,
+            "blocks": 14,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 217,
+            "won": 103
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 12,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 22,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19354,
+        "name": "E. Konsa",
+        "firstname": "Ezri",
+        "lastname": "Konsa Ngoyo",
+        "age": 27,
+        "birth": {
+          "date": "1997-10-23",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19354.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3074,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.954285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 5,
+            "bench": 0
+          },
+          "shots": {
+            "total": 14,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1953,
+            "key": 8,
+            "accuracy": 51
+          },
+          "tackles": {
+            "total": 54,
+            "blocks": 20,
+            "interceptions": 28
+          },
+          "duels": {
+            "total": 219,
+            "won": 167
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 64,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19366,
+        "name": "O. Watkins",
+        "firstname": "Oliver George Arthur",
+        "lastname": "Watkins",
+        "age": 29,
+        "birth": {
+          "date": "1995-12-30",
+          "place": "Torquay",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19366.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 37,
+            "minutes": 3227,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.335135",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 10,
+            "bench": 0
+          },
+          "shots": {
+            "total": 86,
+            "on": 47
+          },
+          "goals": {
+            "total": 19,
+            "conceded": 0,
+            "assists": 13,
+            "saves": null
+          },
+          "passes": {
+            "total": 590,
+            "key": 45,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 4,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 322,
+            "won": 128
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 41,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21090,
+        "name": "Diego Carlos",
+        "firstname": "Diego Carlos",
+        "lastname": "Santos Silva",
+        "age": 31,
+        "birth": {
+          "date": "1993-03-15",
+          "place": "Barra Bonita",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "186 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21090.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 20,
+            "minutes": 1811,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.659259",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 2,
+            "bench": 12
+          },
+          "shots": {
+            "total": 8,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1339,
+            "key": 3,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 27,
+            "blocks": 19,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 120,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46815,
+        "name": "Pau Torres",
+        "firstname": "Pau",
+        "lastname": "Francisco Torres",
+        "age": 27,
+        "birth": {
+          "date": "1997-01-16",
+          "place": "Villarreal",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "191 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46815.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 27,
+            "minutes": 2464,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.841379",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 2,
+            "bench": 7
+          },
+          "shots": {
+            "total": 9,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 1770,
+            "key": 8,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 12,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 155,
+            "won": 79
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47547,
+        "name": "\u00c1lex Moreno",
+        "firstname": "Alexandre",
+        "lastname": "Moreno Lopera",
+        "age": 31,
+        "birth": {
+          "date": "1993-06-08",
+          "place": "Sant Sadurn\u00ed d'Anoia",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "179 cm",
+        "weight": "68 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47547.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 11,
+            "minutes": 1028,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.725000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 10,
+            "out": 6,
+            "bench": 14
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 408,
+            "key": 11,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 2,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 102,
+            "won": 53
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 138931,
+        "name": "J. Philogene",
+        "firstname": "Jaden",
+        "lastname": "Philogene-Bidace",
+        "age": 22,
+        "birth": {
+          "date": "2002-02-08",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "181 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/138931.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 3,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 4,
+            "key": null,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 298128,
+        "name": "K. Kesler-Hayden",
+        "firstname": "Kaine",
+        "lastname": "Kesler-Hayden",
+        "age": 22,
+        "birth": {
+          "date": "2002-10-23",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "175 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/298128.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 3,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.300000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 17
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 1,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 312118,
+        "name": "J. Feeney",
+        "firstname": "Joshua",
+        "lastname": "Feeney",
+        "age": 19,
+        "birth": {
+          "date": "2005-05-06",
+          "place": null,
+          "country": "Scotland"
+        },
+        "nationality": "England",
+        "height": "193 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/312118.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

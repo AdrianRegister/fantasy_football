@@ -1,0 +1,1916 @@
+{
+  "get": "players",
+  "parameters": {
+    "league": "39",
+    "season": "2023",
+    "page": "41"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 41,
+    "total": 51
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1746,
+        "name": "J. Worrall",
+        "firstname": "Joseph Adrian",
+        "lastname": "Worrall",
+        "age": 27,
+        "birth": {
+          "date": "1997-01-10",
+          "place": "Nottingham",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "193 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1746.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 7,
+            "lineups": 5,
+            "minutes": 439,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.583333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 1,
+            "bench": 9
+          },
+          "shots": {
+            "total": 2,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 161,
+            "key": 2,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 4,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 37,
+            "won": 21
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 3
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2771,
+        "name": "O. Aina",
+        "firstname": "Temitayo Olufisayo Olaoluwa",
+        "lastname": "Aina",
+        "age": 28,
+        "birth": {
+          "date": "1996-10-08",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "Nigeria",
+        "height": "184 cm",
+        "weight": "82 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2771.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 20,
+            "minutes": 1701,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.759090",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 11,
+            "bench": 5
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 632,
+            "key": 11,
+            "accuracy": 22
+          },
+          "tackles": {
+            "total": 47,
+            "blocks": 3,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 181,
+            "won": 115
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2807,
+        "name": "R. Freuler",
+        "firstname": "Remo Marco",
+        "lastname": "Freuler",
+        "age": 32,
+        "birth": {
+          "date": "1992-04-15",
+          "place": "Ennenda",
+          "country": "Switzerland"
+        },
+        "nationality": "Switzerland",
+        "height": "180 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2807.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2919,
+        "name": "M. Sels",
+        "firstname": "Matz Willy Els",
+        "lastname": "Sels",
+        "age": 32,
+        "birth": {
+          "date": "1992-02-26",
+          "place": "Lint",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "188 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2919.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 16,
+            "minutes": 1440,
+            "number": null,
+            "position": "Goalkeeper",
+            "rating": "6.668750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 27,
+            "assists": 0,
+            "saves": 38
+          },
+          "passes": {
+            "total": 325,
+            "key": 1,
+            "accuracy": 13
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 6,
+            "won": 6
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": 0
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 6056,
+        "name": "N. Dom\u00ednguez",
+        "firstname": "Nicol\u00e1s Mart\u00edn",
+        "lastname": "Dom\u00ednguez",
+        "age": 26,
+        "birth": {
+          "date": "1998-06-28",
+          "place": "Buenos Aires",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "179 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6056.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 19,
+            "minutes": 1504,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.920000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 16,
+            "bench": 13
+          },
+          "shots": {
+            "total": 14,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 829,
+            "key": 10,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 63,
+            "blocks": 5,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 192,
+            "won": 107
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 8598,
+        "name": "T. Awoniyi",
+        "firstname": "Taiwo Micheal",
+        "lastname": "Awoniyi",
+        "age": 27,
+        "birth": {
+          "date": "1997-08-12",
+          "place": "Ilorin",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "183 cm",
+        "weight": "84 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/8598.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 12,
+            "minutes": 1045,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.836842",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 11,
+            "bench": 8
+          },
+          "shots": {
+            "total": 19,
+            "on": 11
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 172,
+            "key": 10,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 2,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 130,
+            "won": 54
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 16,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 17365,
+        "name": "H. Toffolo",
+        "firstname": "Harry Stefano",
+        "lastname": "Toffolo",
+        "age": 29,
+        "birth": {
+          "date": "1995-08-19",
+          "place": "Welwyn Garden City",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183 cm",
+        "weight": "71 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/17365.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 15,
+            "minutes": 1454,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.769565",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 3,
+            "bench": 17
+          },
+          "shots": {
+            "total": 7,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 446,
+            "key": 18,
+            "accuracy": 16
+          },
+          "tackles": {
+            "total": 26,
+            "blocks": 13,
+            "interceptions": 14
+          },
+          "duels": {
+            "total": 102,
+            "won": 54
+          },
+          "dribbles": {
+            "attempts": 3,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 17
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18739,
+        "name": "W. Boly",
+        "firstname": "Willy-Arnaud",
+        "lastname": "Zobo Boly",
+        "age": 33,
+        "birth": {
+          "date": "1991-02-03",
+          "place": "Melun",
+          "country": "France"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "195 cm",
+        "weight": "92 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18739.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 18,
+            "minutes": 1443,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.045000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 6,
+            "bench": 5
+          },
+          "shots": {
+            "total": 12,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 612,
+            "key": 9,
+            "accuracy": 24
+          },
+          "tackles": {
+            "total": 46,
+            "blocks": 21,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 177,
+            "won": 108
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 3,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18746,
+        "name": "M. Gibbs-White",
+        "firstname": "Morgan Anthony",
+        "lastname": "Gibbs-White",
+        "age": 24,
+        "birth": {
+          "date": "2000-01-27",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "171 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18746.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 35,
+            "minutes": 3162,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.243243",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 8,
+            "bench": 2
+          },
+          "shots": {
+            "total": 46,
+            "on": 15
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 1282,
+            "key": 75,
+            "accuracy": 26
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 8,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 419,
+            "won": 197
+          },
+          "dribbles": {
+            "attempts": 99,
+            "success": 44,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 57,
+            "committed": 37
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18904,
+        "name": "J. Shelvey",
+        "firstname": "Jonjo",
+        "lastname": "Shelvey",
+        "age": 32,
+        "birth": {
+          "date": "1992-02-27",
+          "place": "London",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "184 cm",
+        "weight": "80 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18904.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19305,
+        "name": "R. Yates",
+        "firstname": "Ryan James",
+        "lastname": "Yates",
+        "age": 27,
+        "birth": {
+          "date": "1997-11-21",
+          "place": "Nottingham",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "190 cm",
+        "weight": "87 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19305.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 21,
+            "minutes": 1985,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.842857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 14,
+            "out": 7,
+            "bench": 16
+          },
+          "shots": {
+            "total": 21,
+            "on": 7
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 817,
+            "key": 7,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 66,
+            "blocks": 15,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 287,
+            "won": 168
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 57,
+            "committed": 54
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19610,
+        "name": "O. Richards",
+        "firstname": "Omar",
+        "lastname": "Tyrell Crawford Richards",
+        "age": 26,
+        "birth": {
+          "date": "1998-02-15",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "174 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19610.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20503,
+        "name": "L. O&apos;Brien",
+        "firstname": "Lewis John",
+        "lastname": "O'Brien",
+        "age": 26,
+        "birth": {
+          "date": "1998-10-14",
+          "place": "Colchester",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "173 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20503.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 22149,
+        "name": "I. Sangar\u00e9",
+        "firstname": "Ibrahim",
+        "lastname": "Sangar\u00e9",
+        "age": 27,
+        "birth": {
+          "date": "1997-12-02",
+          "place": "Abidjan",
+          "country": "C\u00f4te d'Ivoire"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "191 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/22149.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 17,
+            "lineups": 13,
+            "minutes": 1040,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.794117",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 9,
+            "bench": 11
+          },
+          "shots": {
+            "total": 5,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 419,
+            "key": 7,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 42,
+            "blocks": 7,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 134,
+            "won": 65
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 138780,
+        "name": "N. Williams",
+        "firstname": "Neco Shay",
+        "lastname": "Williams",
+        "age": 23,
+        "birth": {
+          "date": "2001-04-13",
+          "place": "Wrexham",
+          "country": "Wales"
+        },
+        "nationality": "Wales",
+        "height": "183 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/138780.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 18,
+            "minutes": 1633,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.819230",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 4,
+            "bench": 13
+          },
+          "shots": {
+            "total": 8,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 597,
+            "key": 11,
+            "accuracy": 18
+          },
+          "tackles": {
+            "total": 69,
+            "blocks": 13,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 255,
+            "won": 149
+          },
+          "dribbles": {
+            "attempts": 37,
+            "success": 19,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 138908,
+        "name": "E. Anderson",
+        "firstname": "Elliot",
+        "lastname": "Anderson",
+        "age": 22,
+        "birth": {
+          "date": "2002-11-06",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "Scotland",
+        "height": "179 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/138908.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 34,
+            "name": "Newcastle",
+            "logo": "https://media.api-sports.io/football/teams/34.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 10,
+            "minutes": 1022,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.894736",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 7,
+            "bench": 11
+          },
+          "shots": {
+            "total": 14,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 416,
+            "key": 15,
+            "accuracy": 17
+          },
+          "tackles": {
+            "total": 24,
+            "blocks": 4,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 168,
+            "won": 82
+          },
+          "dribbles": {
+            "attempts": 38,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 147835,
+        "name": "A. Omobamidele",
+        "firstname": "Andrew Abiola",
+        "lastname": "Omobamidele",
+        "age": 22,
+        "birth": {
+          "date": "2002-06-23",
+          "place": "Dublin",
+          "country": "Republic of Ireland"
+        },
+        "nationality": "Republic of Ireland",
+        "height": "188 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/147835.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 8,
+            "minutes": 780,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.570000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 11
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 309,
+            "key": 2,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 10,
+            "blocks": 8,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 39,
+            "won": 20
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 3,
+            "committed": 6
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 275170,
+        "name": "Danilo",
+        "firstname": "Danilo",
+        "lastname": "dos Santos de Oliveira",
+        "age": 23,
+        "birth": {
+          "date": "2001-04-29",
+          "place": "Salvador",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176 cm",
+        "weight": "69 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/275170.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 29,
+            "lineups": 20,
+            "minutes": 1797,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.860714",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 13,
+            "bench": 11
+          },
+          "shots": {
+            "total": 16,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 726,
+            "key": 20,
+            "accuracy": 20
+          },
+          "tackles": {
+            "total": 35,
+            "blocks": 8,
+            "interceptions": 35
+          },
+          "duels": {
+            "total": 145,
+            "won": 75
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 327609,
+        "name": "J. McDonnell",
+        "firstname": "Jamie Carson",
+        "lastname": "McDonnell",
+        "age": 20,
+        "birth": {
+          "date": "2004-02-16",
+          "place": null,
+          "country": "Northern Ireland"
+        },
+        "nationality": "Northern Ireland",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/327609.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 363695,
+        "name": "Murillo",
+        "firstname": "Murillo",
+        "lastname": "Santiago Costa dos Santos",
+        "age": 22,
+        "birth": {
+          "date": "2002-07-04",
+          "place": null,
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/363695.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 32,
+            "minutes": 2793,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.843750",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 4,
+            "bench": 0
+          },
+          "shots": {
+            "total": 16,
+            "on": 6
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 1445,
+            "key": 7,
+            "accuracy": 35
+          },
+          "tackles": {
+            "total": 50,
+            "blocks": 24,
+            "interceptions": 37
+          },
+          "duels": {
+            "total": 235,
+            "won": 116
+          },
+          "dribbles": {
+            "attempts": 35,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 38
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

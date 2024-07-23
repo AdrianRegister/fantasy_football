@@ -1,0 +1,1990 @@
+{
+  "get": "players",
+  "parameters": {
+    "league": "39",
+    "season": "2023",
+    "page": "30"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 30,
+    "total": 51
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1119,
+        "name": "K. Ajer",
+        "firstname": "Kristoffer",
+        "lastname": "Vassbakk K\u00f6pp Ajer",
+        "age": 26,
+        "birth": {
+          "date": "1998-04-17",
+          "place": "R\u00e6lingen",
+          "country": "Norway"
+        },
+        "nationality": "Norway",
+        "height": "198 cm",
+        "weight": "92 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1119.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 21,
+            "minutes": 1832,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.857142",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": 8,
+            "bench": 8
+          },
+          "shots": {
+            "total": 9,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 722,
+            "key": 12,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 11,
+            "interceptions": 25
+          },
+          "duels": {
+            "total": 190,
+            "won": 121
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 10,
+            "committed": 25
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15745,
+        "name": "M. Roerslev",
+        "firstname": "Mads",
+        "lastname": "Roerslev Rasmussen",
+        "age": 25,
+        "birth": {
+          "date": "1999-06-24",
+          "place": "K\u00f8benhavn",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "184 cm",
+        "weight": "77 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15745.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 22,
+            "minutes": 1987,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.638235",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 12,
+            "out": 14,
+            "bench": 15
+          },
+          "shots": {
+            "total": 5,
+            "on": 1
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 605,
+            "key": 15,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 48,
+            "blocks": 3,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 182,
+            "won": 88
+          },
+          "dribbles": {
+            "attempts": 26,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 15,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15799,
+        "name": "F. Onyeka",
+        "firstname": "Ogochukwu Frank",
+        "lastname": "Onyeka",
+        "age": 26,
+        "birth": {
+          "date": "1998-01-01",
+          "place": "Maiduguri",
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": "183 cm",
+        "weight": "70 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15799.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 26,
+            "lineups": 11,
+            "minutes": 1155,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.753846",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 8,
+            "bench": 19
+          },
+          "shots": {
+            "total": 14,
+            "on": 9
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 375,
+            "key": 12,
+            "accuracy": 12
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 7,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 175,
+            "won": 89
+          },
+          "dribbles": {
+            "attempts": 25,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15908,
+        "name": "M. Damsgaard",
+        "firstname": "Mikkel",
+        "lastname": "Krogh Damsgaard",
+        "age": 24,
+        "birth": {
+          "date": "2000-07-03",
+          "place": "Jyllinge",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "180 cm",
+        "weight": "66 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15908.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 23,
+            "lineups": 7,
+            "minutes": 832,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.821739",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 16,
+            "out": 7,
+            "bench": 19
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 2,
+            "saves": null
+          },
+          "passes": {
+            "total": 394,
+            "key": 11,
+            "accuracy": 14
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 1,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 128,
+            "won": 58
+          },
+          "dribbles": {
+            "attempts": 20,
+            "success": 9,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 8,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19362,
+        "name": "J. Dasilva",
+        "firstname": "Pelenda Joshua Tunga",
+        "lastname": "Dasilva",
+        "age": 26,
+        "birth": {
+          "date": "1998-10-23",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "184 cm",
+        "weight": "75 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19362.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 22,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.400000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 13,
+            "key": 1,
+            "accuracy": 3
+          },
+          "tackles": {
+            "total": 2,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 12,
+            "won": 4
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19495,
+        "name": "N. Collins",
+        "firstname": "Nathan Michael",
+        "lastname": "Collins",
+        "age": 23,
+        "birth": {
+          "date": "2001-04-30",
+          "place": "Leixlip",
+          "country": "Republic of Ireland"
+        },
+        "nationality": "Republic of Ireland",
+        "height": "193 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19495.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 29,
+            "minutes": 2650,
+            "number": null,
+            "position": "Defender",
+            "rating": "6.862500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 1,
+            "bench": 4
+          },
+          "shots": {
+            "total": 8,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1468,
+            "key": 11,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 30,
+            "interceptions": 44
+          },
+          "duels": {
+            "total": 217,
+            "won": 145
+          },
+          "dribbles": {
+            "attempts": 13,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 23,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20589,
+        "name": "B. Mbeumo",
+        "firstname": "Bryan Tetsadong Marceau",
+        "lastname": "Mbeumo",
+        "age": 25,
+        "birth": {
+          "date": "1999-08-07",
+          "place": "Avallon",
+          "country": "France"
+        },
+        "nationality": "Cameroon",
+        "height": "173 cm",
+        "weight": "64 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20589.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 25,
+            "lineups": 22,
+            "minutes": 1960,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.264000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 3
+          },
+          "shots": {
+            "total": 42,
+            "on": 20
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 650,
+            "key": 32,
+            "accuracy": 19
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 266,
+            "won": 106
+          },
+          "dribbles": {
+            "attempts": 68,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 42,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 3,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 20649,
+        "name": "Y. Wissa",
+        "firstname": "Yoane",
+        "lastname": "Wissa Bileko",
+        "age": 28,
+        "birth": {
+          "date": "1996-09-03",
+          "place": "\u00c9pinay-sous-S\u00e9nart",
+          "country": "France"
+        },
+        "nationality": "Congo DR",
+        "height": "176 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/20649.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 29,
+            "minutes": 2509,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.085294",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 20,
+            "bench": 5
+          },
+          "shots": {
+            "total": 52,
+            "on": 26
+          },
+          "goals": {
+            "total": 12,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 440,
+            "key": 30,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 3,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 278,
+            "won": 137
+          },
+          "dribbles": {
+            "attempts": 43,
+            "success": 20,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 51,
+            "committed": 38
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 25073,
+        "name": "V. Janelt",
+        "firstname": "Vitaly",
+        "lastname": "Janelt",
+        "age": 26,
+        "birth": {
+          "date": "1998-05-10",
+          "place": "Hamburg",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "184 cm",
+        "weight": "79 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/25073.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 37,
+            "minutes": 3072,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.973684",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 21,
+            "bench": 1
+          },
+          "shots": {
+            "total": 13,
+            "on": 7
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 1306,
+            "key": 37,
+            "accuracy": 27
+          },
+          "tackles": {
+            "total": 63,
+            "blocks": 9,
+            "interceptions": 36
+          },
+          "duels": {
+            "total": 233,
+            "won": 133
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30407,
+        "name": "C. N\u00f8rgaard",
+        "firstname": "Christian",
+        "lastname": "Thers N\u00f8rgaard",
+        "age": 30,
+        "birth": {
+          "date": "1994-03-10",
+          "place": "K\u00f8benhavn",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "187 cm",
+        "weight": "73 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30407.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 30,
+            "minutes": 2513,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.038709",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 10,
+            "bench": 1
+          },
+          "shots": {
+            "total": 23,
+            "on": 7
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 1441,
+            "key": 24,
+            "accuracy": 37
+          },
+          "tackles": {
+            "total": 81,
+            "blocks": 6,
+            "interceptions": 54
+          },
+          "duels": {
+            "total": 318,
+            "won": 159
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 32,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47438,
+        "name": "M. Jensen",
+        "firstname": "Mathias",
+        "lastname": "Jensen",
+        "age": 28,
+        "birth": {
+          "date": "1996-01-01",
+          "place": "Jerslev",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47438.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 27,
+            "minutes": 2220,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.934375",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 22,
+            "bench": 5
+          },
+          "shots": {
+            "total": 11,
+            "on": 7
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 972,
+            "key": 41,
+            "accuracy": 23
+          },
+          "tackles": {
+            "total": 54,
+            "blocks": 6,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 244,
+            "won": 96
+          },
+          "dribbles": {
+            "attempts": 41,
+            "success": 18,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 106725,
+        "name": "K. Lewis-Potter",
+        "firstname": "Keane William",
+        "lastname": "Lewis-Potter",
+        "age": 23,
+        "birth": {
+          "date": "2001-02-22",
+          "place": "Hull",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "170 cm",
+        "weight": "67 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/106725.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 15,
+            "minutes": 1440,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.644827",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 15,
+            "out": 13,
+            "bench": 18
+          },
+          "shots": {
+            "total": 33,
+            "on": 22
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 358,
+            "key": 13,
+            "accuracy": 9
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 2,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 161,
+            "won": 71
+          },
+          "dribbles": {
+            "attempts": 54,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 18,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 178077,
+        "name": "K. Schade",
+        "firstname": "Kevin",
+        "lastname": "Schade",
+        "age": 23,
+        "birth": {
+          "date": "2001-11-27",
+          "place": "Potsdam",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "183 cm",
+        "weight": "74 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/178077.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 3,
+            "minutes": 330,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.618181",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": 3,
+            "bench": 8
+          },
+          "shots": {
+            "total": 7,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 88,
+            "key": 4,
+            "accuracy": 6
+          },
+          "tackles": {
+            "total": 3,
+            "blocks": null,
+            "interceptions": 1
+          },
+          "duels": {
+            "total": 72,
+            "won": 28
+          },
+          "dribbles": {
+            "attempts": 12,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 10
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 180308,
+        "name": "M. Peart-Harris",
+        "firstname": "Myles",
+        "lastname": "Spencer Peart-Harris",
+        "age": 22,
+        "birth": {
+          "date": "2002-09-18",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "187 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/180308.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 3,
+            "lineups": 0,
+            "minutes": 10,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 0,
+            "bench": 9
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": 7,
+            "key": 1,
+            "accuracy": 1
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": 11,
+            "won": 2
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 2
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 191337,
+        "name": "T. Crama",
+        "firstname": "Tristan",
+        "lastname": "Crama",
+        "age": 23,
+        "birth": {
+          "date": "2001-11-08",
+          "place": "B\u00e9ziers",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "192 cm",
+        "weight": "78 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/191337.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": null,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": null,
+            "missed": null,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 263538,
+        "name": "Y. Yarmoliuk",
+        "firstname": "Yehor",
+        "lastname": "Yarmoliuk",
+        "age": 20,
+        "birth": {
+          "date": "2004-03-01",
+          "place": "Verkhniodniprovsk",
+          "country": "Ukraine"
+        },
+        "nationality": "Ukraine",
+        "height": "180 cm",
+        "weight": "72 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/263538.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 27,
+            "lineups": 6,
+            "minutes": 674,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.642307",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 21,
+            "out": 6,
+            "bench": 32
+          },
+          "shots": {
+            "total": 8,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 282,
+            "key": 3,
+            "accuracy": 8
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 4,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 96,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": 24,
+            "success": 17,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 356237,
+        "name": "Kim Ji-Soo",
+        "firstname": "Ji-Soo",
+        "lastname": "Kim",
+        "age": 20,
+        "birth": {
+          "date": "2004-12-24",
+          "place": "Bucheon",
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "192 cm",
+        "weight": "83 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/356237.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 8
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 382925,
+        "name": "R. Trevitt",
+        "firstname": "Ryan",
+        "lastname": "Trevitt",
+        "age": 21,
+        "birth": {
+          "date": "2003-03-12",
+          "place": null,
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "170 cm",
+        "weight": "65 kg",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/382925.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 408221,
+        "name": "B. Fredrick",
+        "firstname": "Benjamin Chiemela",
+        "lastname": "Fredrick",
+        "age": 19,
+        "birth": {
+          "date": "2005-05-28",
+          "place": null,
+          "country": "Nigeria"
+        },
+        "nationality": "Nigeria",
+        "height": null,
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/408221.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Defender",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 2
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 430734,
+        "name": "Y. Konak",
+        "firstname": "Yunus Emre",
+        "lastname": "Konak",
+        "age": 18,
+        "birth": {
+          "date": "2006-01-10",
+          "place": "Batman",
+          "country": "T\u00fcrkiye"
+        },
+        "nationality": "T\u00fcrkiye",
+        "height": "181 cm",
+        "weight": null,
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/430734.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 55,
+            "name": "Brentford",
+            "logo": "https://media.api-sports.io/football/teams/55.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Midfielder",
+            "rating": null,
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 1
+          },
+          "shots": {
+            "total": null,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": null,
+            "saves": null
+          },
+          "passes": {
+            "total": null,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": null,
+            "blocks": null,
+            "interceptions": null
+          },
+          "duels": {
+            "total": null,
+            "won": null
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": null,
+            "committed": null
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
